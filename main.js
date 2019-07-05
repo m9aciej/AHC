@@ -82,7 +82,7 @@ mi[3] = [[0, 0, 0, 0, 0, 0],
 
 let rand = 0.05; // narazie takie cos
 //parametry argorytmu
-let epsilon = 0.055;
+let epsilon = 0.6;
 let gamma = 0.9; // współczynnik dyskontowania
 let alfa = 0.5; // współczynnik aktualizacji funkcji strategii mi
 let beta = 0.5; // współczynnik aktualizacji funkcji wartości V
